@@ -32,7 +32,7 @@ const SitesPage = () => {
           </p>
           <div style={{fontSize: '12px'}}>
             <div>🏴 Fondée en 1922</div>
-            <div>⚡ Action directe</div>
+            <div>🔥 Action directe</div>
             <div>🌍 Solidarité internationale</div>
           </div>
         </div>
@@ -93,7 +93,7 @@ const SitesPage = () => {
                 borderRadius: '8px',
                 border: '2px solid #ff0000'
               }}>
-                <h3 style={{color: '#ff0000', fontSize: '18px', marginBottom: '10px'}}>⚡ ACTION DIRECTE</h3>
+                <h3 style={{color: '#ff0000', fontSize: '18px', marginBottom: '10px'}}>🔥 ACTION DIRECTE</h3>
                 <p style={{fontSize: '14px', lineHeight: '1.5'}}>
                   Grèves, sabotage, boycotts : nous agissons directement contre l'exploitation 
                   sans passer par les institutions bourgeoises.

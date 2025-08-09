@@ -18,6 +18,7 @@ const DoleancesPage = () => {
       icon: <Users size={24} />,
       content: [
         "Le capitalisme détruit l'humanité et la planète. Il transforme tout en marchandise : notre travail, nos relations, notre environnement.",
+        "L'argent est l'instrument de notre asservissement. Nous voulons abolir le système monétaire et instaurer l'économie du don et de l'entraide.",
         "Face à cette barbarie, nous prônons l'action directe : grèves sauvages, sabotages, occupations, boycotts.",
         "La révolution ne viendra pas des urnes mais de la rue, des usines, des quartiers en lutte."
       ]
@@ -66,6 +67,10 @@ const DoleancesPage = () => {
     {
       principe: "FÉDÉRALISME",
       definition: "Association libre de communes autonomes et autogérées"
+    },
+    {
+      principe: "ABOLITION MONÉTAIRE",
+      definition: "Destruction du système monétaire et instauration de l'économie du don"
     }
   ];
 
@@ -211,7 +216,7 @@ const DoleancesPage = () => {
             margin: '40px 0'
           }}>
             <h2 style={{fontSize: '28px', fontWeight: 'bold', marginBottom: '25px', textAlign: 'center'}}>
-              ⚡ TACTIQUES D'ACTION DIRECTE ⚡
+              🔥 TACTIQUES D'ACTION DIRECTE 🔥
             </h2>
             <ul style={{
               listStyle: 'none',

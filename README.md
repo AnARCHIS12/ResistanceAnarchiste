@@ -23,7 +23,7 @@
 - [🎯 À propos](#-à-propos)
 - [✨ Fonctionnalités](#-fonctionnalités)
 - [🛠️ Technologies](#️-technologies)
-- [⚡ Installation rapide](#-installation-rapide)
+- [🚀 Installation rapide](#-installation-rapide)
 - [📁 Structure du projet](#-structure-du-projet)
 - [🚀 Déploiement](#-déploiement)
 - [🤝 Contribuer](#-contribuer)
@@ -43,7 +43,7 @@ Résistance Anarchiste est une plateforme web dédiée à la diffusion des idée
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  🔥 CONTRE L'EXPLOITATION CAPITALISTE                       │
-│  ⚡ POUR L'ÉMANCIPATION DES PEUPLES                         │
+│  ✊ POUR L'ÉMANCIPATION DES PEUPLES                         │
 │                                                             │
 │  🗺️ [CARTE DES COLLECTIFS ANARCHISTES]                     │
 │                                                             │
@@ -100,7 +100,7 @@ Résistance Anarchiste est une plateforme web dédiée à la diffusion des idée
 - 📝 **ESLint** - Qualité du code
 - 🎨 **Prettier** - Formatage automatique
 
-## ⚡ Installation rapide
+## 🚀 Installation rapide
 
 ### Prérequis
 - 📦 Node.js 18+
