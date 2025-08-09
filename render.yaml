@@ -2,5 +2,5 @@ services:
   - type: web
     name: resistance-anarchiste
     env: python
-    buildCommand: "cd frontend && npm install && npm run build && cd .. && pip install flask"
+    buildCommand: "cd frontend && npm install --legacy-peer-deps && npm run build && cd .. && pip install flask"
     startCommand: "python app.py"
