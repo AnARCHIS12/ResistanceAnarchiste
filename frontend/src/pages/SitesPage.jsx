@@ -176,7 +176,7 @@ const SitesPage = () => {
                 { icon: '🚫', title: 'BOYCOTTS', desc: 'Refus de consommer les produits de l\'exploitation' },
                 { icon: '📢', title: 'PROPAGANDE', desc: 'Diffusion des idées révolutionnaires' },
                 { icon: '🤝', title: 'ENTRAIDE', desc: 'Solidarité concrète entre travailleurs et travailleuses' },
-                { icon: '🟥', title: 'OCCUPATION', desc: 'Prise de contrôle des lieux de travail' }
+                { icon: '🚩🏴', title: 'OCCUPATION', desc: 'Prise de contrôle des lieux de travail' }
               ].map((action, index) => (
                 <div key={index} style={{
                   backgroundColor: '#000',
