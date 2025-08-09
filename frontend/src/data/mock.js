@@ -11,9 +11,9 @@ export const mockData = {
   // Principes anarchistes
   principles: [
     "🚫 Abolition de l'État et de toute autorité coercitive !",
-    "⚡ Action directe et résistance populaire !",  
+    "🔥 Action directe et résistance populaire !",  
     "🤝 Autogestion et démocratie directe !",
-    "🌱 Écologie sociale et décroissance !",
+    "🛡️ Remplacement de la police et de l'armée par la population elle-même !",
     "✊ Solidarité internationale des opprimés !",
     "🏴 Aucune hiérarchie, aucun maître !"
   ],

@@ -79,6 +79,10 @@ const DoleancesPage = () => {
     {
       principe: "RÉVOLUTION",
       definition: "Transformation radicale et totale de la société par l'action directe"
+    },
+    {
+      principe: "AUTODÉFENSE POPULAIRE",
+      definition: "Remplacement de la police et de l'armée par la population elle-même"
     }
   ];
 
