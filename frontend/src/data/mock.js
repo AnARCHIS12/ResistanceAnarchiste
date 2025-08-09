@@ -20,8 +20,8 @@ export const mockData = {
 
   // Raisons de la colère anarchiste
   anger: [
-    "Nous ne voulons pas subir leur autorité.",
-    "Nous voulons détruire l'État, abolir le capital et instaurer l'anarchie."
+    "Face à l'oppression capitaliste et étatique, nous refusons de subir leur autorité.",
+    "Notre objectif : détruire l'État, abolir le capital et instaurer l'anarchie."
   ],
 
   // Collectifs régionaux anarchistes

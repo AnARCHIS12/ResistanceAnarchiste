@@ -84,10 +84,10 @@ const HomePage = () => {
 
           <div className="principles-section">
             <h2 className="principles-title">
-              Les raisons de notre révolte
+              Pourquoi nous nous révoltons
             </h2>
             <p style={{ marginBottom: '20px', fontWeight: 'bold' }}>
-              Le système capitaliste et étatique, c'est :
+              Contre le système capitaliste et étatique qui impose :
             </p>
             <ul className="principles-list">
               {mockData.principles.map((principle, index) => (
