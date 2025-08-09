@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: resistance-backend
+    env: python
+    buildCommand: "cd backend && pip install -r requirements.txt"
+    startCommand: "cd backend && python server.py"
+    
+  - type: web
+    name: resistance-frontend
+    env: static
+    buildCommand: "cd frontend && npm install && npm run build"
+    staticPublishPath: frontend/build
