@@ -30,6 +30,19 @@ const HomePage = () => {
           <Link to="/sites" className="nav-item">CNT-AIT</Link>
         </nav>
 
+        {/* Case Rejoins-nous */}
+        <div style={{
+          backgroundColor: '#ff0000',
+          color: 'white',
+          padding: '15px',
+          textAlign: 'center',
+          fontWeight: 'bold',
+          fontSize: '16px',
+          margin: '20px 0'
+        }}>
+          REJOINS-NOUS
+        </div>
+
 
 
         {/* Réseaux Sociaux */}
