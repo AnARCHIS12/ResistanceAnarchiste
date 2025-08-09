@@ -79,9 +79,7 @@ const HomePage = () => {
           </div>
 
           <div className="main-message">
-            {mockData.anger.map((line, index) => (
-              <p key={index}>{line}</p>
-            ))}
+            <p>Démanteler l'État et le gouvernement, supprimer le capitalisme et le système monétaire et instaurer l'anarchisme, la liberté concrète.</p>
           </div>
 
           <div className="call-to-action">

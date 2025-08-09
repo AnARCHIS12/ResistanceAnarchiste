@@ -74,8 +74,7 @@ const SitesPage = () => {
               complète de la classe ouvrière par l'action directe et la solidarité.
             </p>
             <p style={{fontSize: '16px', lineHeight: '1.6'}}>
-              Nous rejetons toute collaboration avec l'État et le patronat. Notre objectif : 
-              <strong style={{color: '#fff'}}> la mise en place du socialisme libertaire par les prolétaires.</strong>
+              <strong style={{color: '#fff'}}>Démanteler l'État et le gouvernement, supprimer le capitalisme et le système monétaire et instaurer l'anarchisme, la liberté concrète.</strong>
             </p>
           </div>
 

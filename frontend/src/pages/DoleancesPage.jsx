@@ -18,7 +18,7 @@ const DoleancesPage = () => {
       icon: <Users size={24} />,
       content: [
         "Le capitalisme détruit l'humanité et la planète. Il transforme tout en marchandise : notre travail, nos relations, notre environnement.",
-        "L'argent est l'instrument de notre asservissement. Nous voulons abolir le système monétaire et instaurer l'économie du don et de l'entraide.",
+        "L'argent est l'instrument de notre asservissement. Nous voulons abolir le système monétaire et instaurer le libre accès, gratuit et universel avec prise au tas selon ses besoins.",
         "Face à cette barbarie, nous prônons l'action directe : grèves sauvages, sabotages, occupations, boycotts.",
         "La révolution ne viendra pas des urnes mais de la rue, des usines, des quartiers en lutte."
       ]
@@ -70,7 +70,15 @@ const DoleancesPage = () => {
     },
     {
       principe: "ABOLITION MONÉTAIRE",
-      definition: "Destruction du système monétaire et instauration de l'économie du don"
+      definition: "Destruction du système monétaire : libre accès, gratuit et universel avec prise au tas selon ses besoins"
+    },
+    {
+      principe: "AUTHENTIQUE DÉMOCRATIE",
+      definition: "Participation directe de tous aux décisions qui les concernent"
+    },
+    {
+      principe: "RÉVOLUTION",
+      definition: "Transformation radicale et totale de la société par l'action directe"
     }
   ];
 
@@ -253,8 +261,7 @@ const DoleancesPage = () => {
               L'HEURE EST À LA RÉVOLTE !
             </h2>
             <p style={{fontSize: '20px', lineHeight: '1.5', marginBottom: '20px'}}>
-              Le temps des compromis est révolu. Face à l'effondrement capitaliste et à la tyrannie étatique, 
-              il n'y a qu'une voie : la révolution sociale totale.
+              Démanteler l'État et le gouvernement, supprimer le capitalisme et le système monétaire et instaurer l'anarchisme, la liberté concrète.
             </p>
             <p style={{fontSize: '24px', fontWeight: 'bold', color: '#ff0000'}}>
               ORGANISONS-NOUS • RÉSISTONS • DÉTRUISONS L'ORDRE ÉTABLI
